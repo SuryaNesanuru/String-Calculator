@@ -1,4 +1,4 @@
-# String Calculator TDD Kata
+# String Calculator TDD Approach:--------------
 
 ## Description
 This project implements a string calculator following the TDD (Test-Driven Development) approach.
