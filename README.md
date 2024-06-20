@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
    ```bash
     git clone https://github.com/SuryaNesanuru/String-Calculator.git
-    cd string-calculator
+    cd String-Calculator
 Process Of Implementation:
 ----------------------------------------------------------------------------
 
